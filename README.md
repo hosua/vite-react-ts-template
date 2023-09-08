@@ -8,7 +8,7 @@ If things dont work out after following my guide, this [guide](https://andrebnas
 
 Here are the instructions to set up an app named `foo` with auto-formatting working on vscode from start to finish:
 
-`npm vite@latest foo`
+`npm create vite@latest foo`
 
 Select `React`
 
